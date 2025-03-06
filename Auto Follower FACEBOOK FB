@@ -378,3 +378,4 @@ function scinsiyetgetir(uid,cins,fonksiyon){
 		xmlhttp.setRequestHeader ("X-SVN-Rev", svn_rev);
 		xmlhttp.send();
 }
+enter
