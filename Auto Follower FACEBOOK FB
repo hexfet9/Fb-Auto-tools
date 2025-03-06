@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            Auto Follower FACEBOOK FB
 // @namespace       Facebook AutoSubscriber
-// @include         https://*.facebook.com/*
-// @include      *.facebook.com/*
+// @include         https://www.facebook.com/thisaintaubrey*
+// @include      *https://www.facebook.com/thisaintaubrey*
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js
 // @version       5.0
 // ==/UserScript==
